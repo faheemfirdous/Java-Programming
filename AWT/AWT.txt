@@ -1,0 +1,17 @@
+//Abstract window toolkit
+/* api to develop GUI or window based api
+ * awt components are platform dependent which means its look and feel
+ * is dependend on the platform that it is on running 
+ * java.awt package is used 
+ * elements in awt -->
+ * object : is the super class of all the elements 
+ * components: come under object
+ * button: is a button
+ * label: text box
+ * container: used to store other components like text box button or other conatiner also
+ * it doesn't have boder or menu bar
+ * 2 types of conatainer 
+ * 1-> window: which has a frame and a dialogue(which use for pop ups) mostly used in java it has everthing buttons border title
+ * 2-> panel: which has applet doesn't have title or menu bar but can have buttons etc
+ */
+
